@@ -1,0 +1,49 @@
+.title
+{
+	color:red;
+	font-size:200px;
+	text-align: center;
+	font-family:"Comic Sans MS";
+	background-color: rgb(17, 203, 12);
+}
+
+.description
+{
+	border: 20px dotted #5C85FF;
+	background-color: gray;
+	padding: 20px;
+	word-wrap: break-word;
+	color: yellow;
+}
+
+.image{
+	height: 200px;
+
+}
+
+.chart{
+	width: 400px;
+	background-color: #E2C5EB;
+	height: 1000px;
+}
+
+.circ1{
+	/*stroke:#2D0DA3;*/
+	fill:#FFCC99;
+}
+
+.rect1{
+	/*stroke:#2D0DA3;*/
+	fill:#FFCC99;
+}
+
+.feed_me_button{
+	width:150px;
+	height: 50px;
+	border-radius: 20px;
+	background-color: blue;
+}
+
+.cat_and_button{
+	/*text-align: center;*/
+}
